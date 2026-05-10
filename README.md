@@ -37,7 +37,7 @@ The paper includes a detailed analysis of the WannaCry ransomware attack (2017),
 
 ## Author
 
-Sarvesh Ramesh Tawan
+Sarvesh Umesh Chavan
 B.E. Artificial Intelligence & Data Science
 DY Patil College of Engineering, Akurdi
 
